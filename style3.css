@@ -1,0 +1,32 @@
+.box6{
+    width: 30%;
+    float: right;
+    height: 600px;
+}
+iframe{
+    float: left;
+    width: 60%;
+}
+.tuyenSinh{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-size: large;
+    font-variant: small-caps;
+    box-shadow: 0 0 5px;
+}
+.icon{
+    display: inline;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.icon img{
+    max-width: 50px;
+    max-height: 50px;
+}
+iframe{
+    min-height: 300px;
+    display: inline;
+}
